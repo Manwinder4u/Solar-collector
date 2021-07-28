@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  power: MyString
+  no_of_panels: 1
+  type: 
+  inverter: MyString
+  total_amount: MyString
+  warranty: MyString
+  client: one
+
+two:
+  power: MyString
+  no_of_panels: 1
+  type: 
+  inverter: MyString
+  total_amount: MyString
+  warranty: MyString
+  client: two

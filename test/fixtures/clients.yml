@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  phone_number: 1
+  address: MyString
+  service_starts: 2021-07-28 17:29:23
+  meter_detail: MyText
+  account_detail: MyString
+  energy_consumption: MyString
+  owner: one
+
+two:
+  name: MyString
+  email: MyString
+  phone_number: 1
+  address: MyString
+  service_starts: 2021-07-28 17:29:23
+  meter_detail: MyText
+  account_detail: MyString
+  energy_consumption: MyString
+  owner: two
