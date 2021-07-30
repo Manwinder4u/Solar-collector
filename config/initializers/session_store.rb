@@ -1,0 +1,1 @@
+Rails.application.config.session_store :cookie_store, key: "_solar_collector", domain: "http://localhost:3000"
